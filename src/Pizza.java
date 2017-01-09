@@ -21,6 +21,6 @@ public class Pizza {
     }
 
     public String toString(){
-        return "Ur pizza with " + cheese + ", " + meat +" and " + vegetables + ".";
+        return "U have chosen " + type + " pizza." + " Ur pizza with " + cheese + ", " + meat + ", " + vegetables + ".";
     }
 }
